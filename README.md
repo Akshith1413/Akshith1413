@@ -184,16 +184,16 @@ void setup() {
 
 </div>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH%20⚡&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FF1CF7&area=true&hide_border=true&area_color=00F5FF" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshith1413&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH%20⚡&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FF1CF7&area=true&hide_border=true&area_color=00F5FF" width="100%"/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&text_color=FFFFFF&ring_color=FF1CF7&fire_color=FFD700" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=BD00FF&fire=FF1CF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshith1413&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&text_color=FFFFFF&ring_color=FF1CF7&fire_color=FFD700" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Akshith1413&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=BD00FF&fire=FF1CF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=YOUR_GITHUB_USERNAME&theme=radical&utcOffset=5.5" alt="Productive Time" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshith1413&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Akshith1413&theme=radical&utcOffset=5.5" alt="Productive Time" />
 </div>
 
 ---
@@ -206,7 +206,7 @@ void setup() {
 
 <div align="center">
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Akshith1413&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10&title=MultiLanguage,Commits,PullRequest,Issues,Repositories,Stars,Followers)
 
 </div>
 
@@ -271,7 +271,7 @@ class DailyRoutine:
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=ai-powered-assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshith1413&repo=ai-powered-assistant&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
 
 ### 🤖 AI-POWERED ASSISTANT
 **Full-Stack AI Application**
@@ -283,7 +283,7 @@ class DailyRoutine:
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=iot-home-automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshith1413&repo=iot-home-automation&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
 
 ### 🏠 IoT HOME AUTOMATION
 **Smart Home Control System**
@@ -297,7 +297,7 @@ class DailyRoutine:
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=cross-platform-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshith1413&repo=cross-platform-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
 
 ### 📱 CROSS-PLATFORM REVOLUTION
 **Universal Mobile Application**
@@ -309,7 +309,7 @@ class DailyRoutine:
 </td>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_GITHUB_USERNAME&repo=electron-desktop-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Akshith1413&repo=electron-desktop-app&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&description_lines_count=3" width="100%"/>
 
 ### 💻 DESKTOP POWERHOUSE
 **Native Desktop Application**
@@ -399,9 +399,9 @@ Reality
 
 <div align="center">
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FF1CF7&area=true&hide_border=true&custom_title=⚡%20365%20DAYS%20OF%20INNOVATION%20⚡)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=Akshith1413&theme=react-dark&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FF1CF7&area=true&hide_border=true&custom_title=⚡%20365%20DAYS%20OF%20INNOVATION%20⚡)
 
-![Contribution Snake](https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Akshith1413/Akshith1413/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -577,7 +577,7 @@ const contact = {
 
 ### 🌟 VISITOR TRACKER 🌟
 
-![Visitor Count](https://profile-counter.glitch.me/YOUR_GITHUB_USERNAME/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/Akshith1413/count.svg)
 
 </div>
 
