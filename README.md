@@ -31,94 +31,39 @@
 </div>
 
 ---
-
-<div align="center">
-
-## 🎯 『 DIMENSIONAL EXPERTISE MATRIX 』 🎯
-
-</div>
-
-<div style="overflow-x:auto; width:100%;">
-  <table align="center" style="min-width:900px; table-layout:fixed; border-collapse:collapse;">
-    <tr>
-
-      <!-- WEB + MOBILE -->
-      <td width="33%" valign="top" align="center">
-
-### 🌐 WEB UNIVERSE
-
-```javascript
+<div align="center"> ## 🎯 『 DIMENSIONAL EXPERTISE MATRIX 』 🎯 </div> <table align="center"> <tr> <td width="25%" align="center"> ### 🌐 WEB UNIVERSE
+javascript
 const web = {
   frontend: "⚛️ React.js",
   backend: "🟢 Node.js",
   framework: "⚡ Express.js",
   reality: "🔮 Next.js"
 };
-```
-
-**MASTERY: 95%**  
-<img src="assets/web.svg" width="220" />
-
----
-
-### 📱 MOBILE REALM
-
-```dart
+**MASTERY: 95%** <img src="assets/web.svg" /> ### 📱 MOBILE REALM
+dart
 class Mobile {
   String framework = "Flutter";
   List platforms = [
-    "iOS",
-    "Android",
+    "iOS", "Android", 
     "Cross-Platform"
   ];
 }
-```
-
-**MASTERY: 90%**  
-<img src="assets/mobile.svg" width="220" />
-
-      </td>
-
-      <!-- AI -->
-      <td width="33%" valign="top" align="center">
-
-### 🤖 AI DIMENSION
-
-```python
+<img src="assets/mobile.svg" /> **MASTERY: 90%** </td> <td width="25%" align="center"> ### 🤖 AI DIMENSION
+python
 class AI_Engineer:
     def __init__(self):
         self.ml = True
         self.dl = True
         self.nlp = True
         self.vision = True
-```
-
-**MASTERY: 80%**  
-<img src="assets/ai.svg" width="220" />
-
-      </td>
-
-      <!-- IOT -->
-      <td width="33%" valign="top" align="center">
-
-### 🔌 IoT NEXUS
-
-```cpp
+**MASTERY: 80%** <img src="assets/ai.svg" /> </td> <td width="25%" align="center"> ### 🔌 IoT NEXUS
+cpp
 void setup() {
   pinMode(REALITY, OUTPUT);
   digitalWrite(FUTURE, HIGH);
   Serial.begin(INNOVATION);
 }
-```
-
-**MASTERY: 88%**  
-<img src="assets/iot.svg" width="220" />
-
-      </td>
-
-    </tr>
-  </table>
-</div>
+**MASTERY: 88%** <img src="assets/iot.svg" /> </td> </tr> </table>
 
 ---
 
