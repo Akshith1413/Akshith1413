@@ -72,7 +72,6 @@ class Mobile {
 
 **MASTERY: 92%**
 
-![Progress](https://progress-bar.dev/92/?title=POWER&width=200&color=BD00FF)
 
 </td>
 <td width="25%" align="center">
@@ -89,8 +88,7 @@ class AI_Engineer:
 ```
 
 **MASTERY: 90%**
-
-![Progress](https://progress-bar.dev/90/?title=POWER&width=200&color=FF1CF7)
+<img src="assets/ai.svg" />
 
 </td>
 <td width="25%" align="center">
@@ -107,7 +105,7 @@ void setup() {
 
 **MASTERY: 88%**
 
-![Progress](https://progress-bar.dev/88/?title=POWER&width=200&color=FFD700)
+<img src="assets/iot.svg" />
 
 </td>
 </tr>
