@@ -54,7 +54,7 @@ const web = {
 ```
 
 **MASTERY: 95%**
-<img src="https://svg-banners.vercel.app/api?type=neon-progress&width=300&height=40&progress=95&label=WEB%20UNIVERSE&color=00F5FF" />
+<img src="assets/web.svg" />
 
 
 ### 📱 MOBILE REALM
