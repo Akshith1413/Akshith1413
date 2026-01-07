@@ -37,7 +37,7 @@
 ## 🎯 『 DIMENSIONAL EXPERTISE MATRIX 』 🎯
 
 </div>
-<div width="100%" height="70" style="overflow-x:auto;">
+<div width="100%" height="70" style="position:relative;display:flex;overflow-x:auto;">
 <table align="center">
 <tr>
 <td width="25%" align="center">
