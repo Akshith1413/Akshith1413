@@ -54,12 +54,8 @@ const web = {
 ```
 
 **MASTERY: 95%**
-<b>95%</b>
+<img src="https://svg-banners.vercel.app/api?type=neon-progress&width=300&height=40&progress=95&label=WEB%20UNIVERSE&color=00F5FF" />
 
-<div style="width:200px;background:#111;border-radius:10px;overflow:hidden"> <div style="width:95%;background:linear-gradient(90deg,#00F5FF,#BD00FF);padding:6px 0;"></div> </div> </td> <td align="center" width="25%">
-
-</td>
-<td width="25%" align="center">
 
 ### 📱 MOBILE REALM
 
