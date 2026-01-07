@@ -68,6 +68,7 @@ class Mobile {
   ];
 }
 ```
+<img src="assets/mobile.svg" />
 
 **MASTERY: 92%**
 
