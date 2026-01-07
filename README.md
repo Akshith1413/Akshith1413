@@ -31,16 +31,35 @@
 </div>
 
 ---
-<div align="center"> ## 🎯 『 DIMENSIONAL EXPERTISE MATRIX 』 🎯 </div> <table align="center"> <tr> <td width="25%" align="center"> ### 🌐 WEB UNIVERSE
-javascript
+
+<div align="center">
+
+## 🎯 『 DIMENSIONAL EXPERTISE MATRIX 』 🎯
+
+</div>
+
+<table align="center">
+<tr>
+<td width="25%" align="center">
+
+### 🌐 WEB UNIVERSE
+
+```javascript
 const web = {
   frontend: "⚛️ React.js",
   backend: "🟢 Node.js",
   framework: "⚡ Express.js",
   reality: "🔮 Next.js"
 };
-**MASTERY: 95%** <img src="assets/web.svg" /> ### 📱 MOBILE REALM
-dart
+```
+
+**MASTERY: 95%**
+<img src="assets/web.svg" />
+
+
+### 📱 MOBILE REALM
+
+```dart
 class Mobile {
   String framework = "Flutter";
   List platforms = [
@@ -48,22 +67,49 @@ class Mobile {
     "Cross-Platform"
   ];
 }
-<img src="assets/mobile.svg" /> **MASTERY: 90%** </td> <td width="25%" align="center"> ### 🤖 AI DIMENSION
-python
+```
+<img src="assets/mobile.svg" />
+
+**MASTERY: 90%**
+
+
+</td>
+<td width="25%" align="center">
+
+### 🤖 AI DIMENSION
+
+```python
 class AI_Engineer:
     def __init__(self):
         self.ml = True
         self.dl = True
         self.nlp = True
         self.vision = True
-**MASTERY: 80%** <img src="assets/ai.svg" /> </td> <td width="25%" align="center"> ### 🔌 IoT NEXUS
-cpp
+```
+
+**MASTERY: 80%**
+<img src="assets/ai.svg" />
+
+</td>
+<td width="25%" align="center">
+
+### 🔌 IoT NEXUS
+
+```cpp
 void setup() {
   pinMode(REALITY, OUTPUT);
   digitalWrite(FUTURE, HIGH);
   Serial.begin(INNOVATION);
 }
-**MASTERY: 88%** <img src="assets/iot.svg" /> </td> </tr> </table>
+```
+
+**MASTERY: 88%**
+ 
+<img src="assets/iot.svg" />
+
+</td>
+</tr>
+</table>
 
 ---
 
