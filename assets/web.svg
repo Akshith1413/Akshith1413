@@ -46,7 +46,7 @@
         width="0" height="22"
         fill="url(#wave)" filter="url(#neon)">
     <animate attributeName="width"
-             from="0" to="323"
+             from="0" to="200"
              dur="1.8s"
              fill="freeze"/>
   </rect>
