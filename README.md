@@ -70,7 +70,7 @@ class Mobile {
 ```
 <img src="assets/mobile.svg" />
 
-**MASTERY: 92%**
+**MASTERY: 90%**
 
 
 </td>
@@ -87,7 +87,7 @@ class AI_Engineer:
         self.vision = True
 ```
 
-**MASTERY: 90%**
+**MASTERY: 80%**
 <img src="assets/ai.svg" />
 
 </td>
