@@ -1,7 +1,10 @@
-<svg width="340" height="48" viewBox="0 0 340 48" xmlns="http://www.w3.org/2000/svg">
+<svg width="100%" height="48" viewBox="0 0 340 48"
+     xmlns="http://www.w3.org/2000/svg"
+     preserveAspectRatio="xMidYMid meet">
+
   <defs>
 
-    <!-- Animated Wave Gradient -->
+    <!-- Animated Gradient -->
     <linearGradient id="wave" x1="0%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="#00F5FF"/>
       <stop offset="50%" stop-color="#BD00FF"/>
@@ -19,7 +22,7 @@
       </feMerge>
     </filter>
 
-    <!-- Pulse Glow -->
+    <!-- Pulse -->
     <filter id="pulse">
       <feGaussianBlur stdDeviation="2">
         <animate attributeName="stdDeviation"
@@ -29,7 +32,7 @@
       </feGaussianBlur>
     </filter>
 
-    <!-- Scanline Gradient -->
+    <!-- Scanline -->
     <linearGradient id="scanline" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0%" stop-color="rgba(255,255,255,0.15)"/>
       <stop offset="100%" stop-color="rgba(255,255,255,0)"/>
@@ -41,19 +44,20 @@
   <rect x="1" y="9" rx="20" ry="20" width="338" height="30"
         fill="#0D1117" stroke="#1f1f1f" stroke-width="2"/>
 
-  <!-- Progress Fill -->
+  <!-- Progress Fill (PERCENT-BASED ✅) -->
   <rect x="6" y="13" rx="16" ry="16"
-        width="0" height="22"
+        width="0%" height="22"
         fill="url(#wave)" filter="url(#neon)">
     <animate attributeName="width"
-             from="0" to="300"
+             from="0%"
+             to="95%"
              dur="1.8s"
              fill="freeze"/>
   </rect>
 
   <!-- Pulse Overlay -->
   <rect x="6" y="13" rx="16" ry="16"
-        width="VAR_WIDTH" height="22"
+        width="PROGRESS%" height="22"
         fill="none" filter="url(#pulse)"/>
 
   <!-- Scanline -->
