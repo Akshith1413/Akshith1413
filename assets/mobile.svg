@@ -68,7 +68,7 @@
   <!-- Text -->
   <text x="170" y="30"
         font-size="14"
-        fill="#FFFFFF"
+        fill="#000000"
         text-anchor="middle"
         font-family="Fira Code, monospace"
         letter-spacing="1">
