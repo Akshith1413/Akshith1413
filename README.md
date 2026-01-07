@@ -38,9 +38,12 @@
 
 </div>
 
-<table align="center">
-<tr>
-<td width="25%" align="center">
+<div style="overflow-x:auto; width:100%;">
+  <table align="center" style="min-width:900px; table-layout:fixed; border-collapse:collapse;">
+    <tr>
+
+      <!-- WEB + MOBILE -->
+      <td width="33%" valign="top" align="center">
 
 ### 🌐 WEB UNIVERSE
 
@@ -53,9 +56,10 @@ const web = {
 };
 ```
 
-**MASTERY: 95%**
-<img src="assets/web.svg" />
+**MASTERY: 95%**  
+<img src="assets/web.svg" width="220" />
 
+---
 
 ### 📱 MOBILE REALM
 
@@ -63,18 +67,20 @@ const web = {
 class Mobile {
   String framework = "Flutter";
   List platforms = [
-    "iOS", "Android", 
+    "iOS",
+    "Android",
     "Cross-Platform"
   ];
 }
 ```
-<img src="assets/mobile.svg" />
 
-**MASTERY: 90%**
+**MASTERY: 90%**  
+<img src="assets/mobile.svg" width="220" />
 
+      </td>
 
-</td>
-<td width="25%" align="center">
+      <!-- AI -->
+      <td width="33%" valign="top" align="center">
 
 ### 🤖 AI DIMENSION
 
@@ -87,11 +93,13 @@ class AI_Engineer:
         self.vision = True
 ```
 
-**MASTERY: 80%**
-<img src="assets/ai.svg" />
+**MASTERY: 80%**  
+<img src="assets/ai.svg" width="220" />
 
-</td>
-<td width="25%" align="center">
+      </td>
+
+      <!-- IOT -->
+      <td width="33%" valign="top" align="center">
 
 ### 🔌 IoT NEXUS
 
@@ -103,13 +111,14 @@ void setup() {
 }
 ```
 
-**MASTERY: 88%**
- 
-<img src="assets/iot.svg" />
+**MASTERY: 88%**  
+<img src="assets/iot.svg" width="220" />
 
-</td>
-</tr>
-</table>
+      </td>
+
+    </tr>
+  </table>
+</div>
 
 ---
 
