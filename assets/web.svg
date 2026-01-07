@@ -50,7 +50,7 @@
         fill="url(#wave)" filter="url(#neon)">
     <animate attributeName="width"
              from="0%"
-             to="80%"
+             to="90%"
              dur="1.8s"
              fill="freeze"/>
   </rect>
