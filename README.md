@@ -575,12 +575,9 @@ const contact = {
 ### 🌟 VISITOR TRACKER 🌟
 
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshith1413.Akshith1413&left_color=BD00FF&right_color=00F5FF&left_text=TOTAL%20VISITORS&style=for-the-badge" alt="Visitor Count" height="28"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/Akshith1413?style=for-the-badge&color=00F5FF&labelColor=BD00FF&label=FOLLOWERS" alt="GitHub followers" height="28"/>
-  <img src="https://img.shields.io/github/stars/Akshith1413?style=for-the-badge&color=FFD700&labelColor=FF1CF7&label=STARS" alt="GitHub stars" height="28"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshith1413.Akshith1413&left_color=BD00FF&right_color=00F5FF&left_text=VISITORS" alt="Visitors"/>
+  <img src="https://img.shields.io/github/followers/Akshith1413?style=flat-square&color=00F5FF&labelColor=BD00FF&label=FOLLOWERS" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Akshith1413?style=flat-square&color=FFD700&labelColor=FF1CF7&label=STARS" alt="Stars"/>
 </p>
 
 </div>
