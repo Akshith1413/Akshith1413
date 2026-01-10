@@ -574,11 +574,14 @@ const contact = {
 
 ### 🌟 VISITOR TRACKER 🌟
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshith1413.Akshith1413&left_color=BD00FF&right_color=00F5FF&left_text=VISITORS" alt="Visitors" height="35"/>
-  <img src="https://img.shields.io/github/followers/Akshith1413?style=for-the-badge&color=00F5FF&labelColor=BD00FF&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" height="35"/>
-  <img src="https://img.shields.io/github/stars/Akshith1413?style=for-the-badge&color=FFD700&labelColor=FF1CF7&label=STARS&logo=github&logoColor=white" alt="Stars" height="35"/>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 5px;">
+  <span style="display: inline-block; transform: scale(1.4);">
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshith1413.Akshith1413&left_color=BD00FF&right_color=00F5FF&left_text=VISITORS" alt="Visitors"/>
+  </span>
+  <img src="https://img.shields.io/github/followers/Akshith1413?style=for-the-badge&color=00F5FF&labelColor=BD00FF&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/Akshith1413?style=for-the-badge&color=FFD700&labelColor=FF1CF7&label=STARS&logo=github&logoColor=white" alt="Stars"/>
 </p>
+
 </div>
 
 ---
