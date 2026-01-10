@@ -575,16 +575,10 @@ const contact = {
 ### 🌟 VISITOR TRACKER 🌟
 
 <p align="center">
-  <a href="https://github.com/Akshith1413">
-    <img src="https://img.shields.io/badge/VISITORS-16-00F5FF?style=for-the-badge&labelColor=BD00FF&logo=eye&logoColor=white" alt="Visitors"/>
-  </a>
-  <img src="https://img.shields.io/github/followers/Akshith1413?style=for-the-badge&color=00F5FF&labelColor=BD00FF&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/Akshith1413?style=for-the-badge&color=FFD700&labelColor=FF1CF7&label=STARS&logo=github&logoColor=white" alt="Stars"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Akshith1413.Akshith1413&left_color=BD00FF&right_color=00F5FF&left_text=VISITORS" alt="Visitors" height="35"/>
+  <img src="https://img.shields.io/github/followers/Akshith1413?style=for-the-badge&color=00F5FF&labelColor=BD00FF&label=FOLLOWERS&logo=github&logoColor=white" alt="Followers" height="35"/>
+  <img src="https://img.shields.io/github/stars/Akshith1413?style=for-the-badge&color=FFD700&labelColor=FF1CF7&label=STARS&logo=github&logoColor=white" alt="Stars" height="35"/>
 </p>
-
-<!-- Hidden visitor counter (updates automatically) -->
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Akshith1413.Akshith1413" alt="Visitor Count" style="display:none;"/>
-
 
 </div>
 
