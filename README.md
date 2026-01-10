@@ -184,7 +184,7 @@ void setup() {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akshith1413&custom_title=⚡%20NEURAL%20ACTIVITY%20GRAPH%20⚡&bg_color=0D1117&color=00F5FF&line=BD00FF&point=FF1CF7&area=true&hide_border=true&area_color=00F5FF" width="100%"/>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshith1413&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=BD00FF&text_color=FFFFFF&ring_color=FF1CF7&fire_color=FFD700" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Akshith1413&show_icons=true&theme=dark&cache_seconds=86400" alt="GitHub Stats" />
   <img width="49%" src="https://streak-stats.demolab.com?user=Akshith1413&theme=radical&hide_border=true&background=0D1117&stroke=00F5FF&ring=BD00FF&fire=FF1CF7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F5FF&sideLabels=00F5FF&dates=888888" alt="GitHub Streak" />
 </div>
 
