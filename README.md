@@ -574,7 +574,7 @@ const contact = {
 
 ### 🌟 VISITOR TRACKER 🌟
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Akshith1413.Akshith1413&left_color=BD00FF&right_color=00F5FF&left_text=TOTAL%20VISITORS&style=for-the-badge)
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Akshith1413.Akshith1413&left_color=purple&right_color=cyan)
 
 ![GitHub followers](https://img.shields.io/github/followers/Akshith1413?style=for-the-badge&color=00F5FF&labelColor=BD00FF)
 ![GitHub stars](https://img.shields.io/github/stars/Akshith1413?style=for-the-badge&color=FFD700&labelColor=FF1CF7)
